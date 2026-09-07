@@ -19,4 +19,4 @@ Helper scripts used in mbl-check, sbl-check, url-check.
 
 > [!IMPORTANT]
 > 
-> Before using **mbl-check** set your VirusTotal API Key in [api_init_config.py](api_init_config.py) and rin the script.
+> Before using **mbl-check**, set your VirusTotal API Key in [api_init_config.py](api_init_config.py) and run the script.
