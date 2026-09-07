@@ -1,0 +1,8 @@
+188.127.239.53
+malicious: 1 [Forcepoint ThreatSeeker: malicious], suspicious: 1 [alphaMountain.ai: (suspicious)], undetected: 35, harmless: 52, timeout: 0
+https://www.virustotal.com/gui/ip-address/188.127.239.53/detection/
+
+188.127.239.48
+malicious: 2 [alphaMountain.ai: malicious | Fortinet: malware], suspicious: 0, undetected: 35, harmless: 52, timeout: 0
+https://www.virustotal.com/gui/ip-address/188.127.239.48/detection/
+

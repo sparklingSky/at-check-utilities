@@ -1,0 +1,14 @@
+http://www.uspto.gov/page/about-trademark-infringement
+https://en.wikipedia.org/wiki/Name_server
+https://en.wikipedia.org/wiki/Root_name_server
+https://en.wikipedia.org/wiki/User_Datagram_Protocol
+https://en.wikipedia.org/wiki/Subnetwork
+https://en.wikipedia.org/wiki/IPv4_subnetting_reference
+https://en.wikipedia.org/wiki/Handshaking
+https://en.wikipedia.org/wiki/Traceroute
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+http://www.samlogic.net/articles/mail-server.htm
+https://en.wikipedia.org/wiki/IPv4
+https://en.wikipedia.org/wiki/IPv6
+http://www.skullbox.net/tcpudp.php
+https://whois.icann.org/en/dns-and-whois-how-it-works

@@ -1,7 +1,22 @@
-**checkurls.py**
+### mbl-check
 
-This Python script is designed to process the list of links to the files and only output links to available files, discarding those ones that were already removed.<br />
-Compatible with Python 2.x.<br />
-Requires the following Python modules to be installed: requests, progressbar.<br />
+Check the list of IP addresses or subnet(s) via VirusTotal API and output 
+the status of the IP address if it is detected by at least one security vendor.
 
-Input data must be saved in a file located in the same folder where the script is.
+### sbl-check
+
+Check the list of IP addresses or subnet(s) through the spam blacklists 
+(Spamhaus, CBL, SpamCop, SORBS, Barracuda, McAfee, etc.) 
+and output the status of the IP address if it is blacklisted.
+
+### url-check
+
+Process the list of links to the files and only output links of available files, 
+discarding those that were already removed.
+
+### auxiliary
+Helper scripts used in mbl-check, sbl-check, url-check.
+
+> [!IMPORTANT]
+> 
+> Before using **mbl-check** set your VirusTotal API Key in [api_init_config.py](api_init_config.py) and rin the script.

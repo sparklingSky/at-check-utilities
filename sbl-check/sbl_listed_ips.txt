@@ -1,0 +1,18 @@
+127.0.0.2
+b.barracudacentral.org (listed), bl.spamcop.net (listed), dnsbl-0.uceprotect.net (listed), dnsbl-1.uceprotect.net (listed), dnsbl-2.uceprotect.net (listed), dnsbl-3.uceprotect.net (listed), bl.blocklist.de (listed)
+
+185.95.23.3
+b.barracudacentral.org (listed)
+
+185.95.23.8
+b.barracudacentral.org (listed)
+
+185.95.23.12
+b.barracudacentral.org (listed)
+
+185.95.23.13
+b.barracudacentral.org (listed)
+
+185.95.23.14
+b.barracudacentral.org (listed)
+
